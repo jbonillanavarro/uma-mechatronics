@@ -1,0 +1,11 @@
+# Archivos de guardado automático
+*.asv
+*.m~
+
+# Caché de Simscape y Simulink
+slprj/
+*.slxc
+*.mex*
+
+# Archivos temporales de Office
+~$*
