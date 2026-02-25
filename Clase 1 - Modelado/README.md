@@ -15,6 +15,7 @@ El condensador se modela considerando su capacitancia $C$ y una resistencia de f
 
 <p align="center">
   <img width="600" alt="bateria + condensador + lampara" src="https://github.com/user-attachments/assets/24e41c77-1d1f-4ac4-992c-983107568c9b" />
+  <br>
   <em>Esquema del circuito: Batería, Condensador y Lámpara del Flash.</em>
 </p>
 
