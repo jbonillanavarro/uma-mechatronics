@@ -1,6 +1,4 @@
-# Mecatrónica - Universidad de Málaga 🎓
-
-Este repositorio contiene las prácticas y ejercicios de modelado de sistemas.
+# Mecatrónica - Universidad de Málaga
 
 ## Ejercicio 2.2: Modelado de un Condensador Electrolítico
 Este ejercicio consiste en modelar el comportamiento de un condensador empleado en el flash de una cámara fotográfica.
