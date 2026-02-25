@@ -13,12 +13,6 @@ El condensador se modela considerando su capacitancia $C$ y una resistencia de f
 * **Capacitancia ($C$):** $120 \mu F$ 
 * **Resistencia de fuga ($R_1$):** $1 M\Omega$
 
-<p align="center">
-  <img width="600" alt="bateria + condensador + lampara" src="https://github.com/user-attachments/assets/24e41c77-1d1f-4ac4-992c-983107568c9b" />
-  <br>
-  <em>Esquema del circuito: Batería, Condensador y Lámpara del Flash.</em>
-</p>
-
 ### 2. Ecuaciones Diferenciales
 Para el sistema que incluye la batería ($V_{oc}$) y el condensador ($V_c$), la ecuación que describe su comportamiento es:
 
@@ -28,3 +22,9 @@ $$C \frac{dV_c}{dt} + \frac{V_c}{R_1} = i(t)$$
 * **Descarga al aire:** El tiempo para bajar de $1.5V$ a $1V$ es de **48.5 segundos**.
 * **Carga con batería:** El condensador alcanza $1V$ en tan solo **0.035 ms**.
 * **Flash de la cámara:** Con una lámpara de $R_f = 0.1 \Omega$ y $L_f = 0.01 mH$, el tiempo de encendido es de **0.04 ms**.
+
+<p align="center">
+  <img width="600" alt="bateria + condensador + lampara" src="https://github.com/user-attachments/assets/24e41c77-1d1f-4ac4-992c-983107568c9b" />
+  <br>
+  <em>Esquema del circuito: Batería, Condensador y Lámpara del Flash.</em>
+</p>
