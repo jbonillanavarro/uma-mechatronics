@@ -10,7 +10,7 @@ This exercise focuses on using Op-Amps for mathematical operations and signal co
 
 ### Simulation
 <div align="center">
-  <img src="simulink Op-Amp Arithmetic Simulink.png" width="600" alt="Simulink Implementation of Op-Amp Arithmetic">
+  <img src="Op-Amp Arithmetic Simulink.png" width="600" alt="Simulink Implementation of Op-Amp Arithmetic">
 </div>
 
 ---
